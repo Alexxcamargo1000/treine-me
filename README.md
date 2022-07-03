@@ -8,3 +8,7 @@ Uma página para feita para estudar os conceitos de CSS e HTML.
 ## Autor
 
 - [Alex Camargo](https://www.github.com/alexxcamargo1000)
+
+## Acesse o site por 
+
+[Treine Me](https://alexxcamargo1000.github.io/treine-me/)
